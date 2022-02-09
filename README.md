@@ -4,5 +4,5 @@
 `kotlin`
 
 ### Library
-`Firebase`
+`Firebase`, `Glide`
 
